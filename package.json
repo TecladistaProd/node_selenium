@@ -1,0 +1,24 @@
+{
+  "name": "webriverjs",
+  "version": "1.0.0",
+  "description": "testing selenium on node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "JavaScript",
+    "Selenium",
+    "Node"
+  ],
+  "author": "TecladistaProd",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  }
+}
